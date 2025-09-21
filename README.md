@@ -64,13 +64,6 @@ I am an MBA student specializing in Finance and Human Resources with hands-on in
 - Volunteer — Vishalakshmi Foundation (education & fundraising initiatives).
 ---
 
-## Projects / Portfolio Links
-> Add links to notebooks, dashboards, slide decks or code repositories here. Example:
-- `notebooks/cost-analysis.ipynb` — Cost sheet & analysis for Vegan Bliss.  
-- `dashboards/skipper-ratio-analysis` — Power BI dashboard (embed or link).  
-
----
-
 ## Contact
 - **Email:** trikutavaishnavi@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/vaishnavi-trikuta  
